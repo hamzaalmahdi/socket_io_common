@@ -10,7 +10,7 @@
  *
  * Copyright (C) 2018 Potix Corporation. All Rights Reserved.
  */
-library socket_io_common;
+library socket_io_common_v2;
 
 export 'src/engine/parser/parser.dart';
 export 'src/engine/parser/wtf8.dart';

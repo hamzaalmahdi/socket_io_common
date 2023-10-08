@@ -1,4 +1,4 @@
-name: socket_io_common
+name: socket_io_common_v2
 description: Socket.io common parser library.
 version: 2.0.3
 homepage: https://www.zkoss.org

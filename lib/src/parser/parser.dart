@@ -12,8 +12,8 @@
  */
 import 'dart:convert';
 import 'package:logging/logging.dart';
-import 'package:socket_io_common/socket_io_common.dart';
-import 'package:socket_io_common/src/util/event_emitter.dart';
+import 'package:socket_io_common_v2/socket_io_common.dart';
+import 'package:socket_io_common_v2/src/util/event_emitter.dart';
 
 import 'is_binary.dart';
 
